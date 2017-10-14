@@ -1,0 +1,22 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+  폴더에서 git init을 치면 repository가 생성된다. 이는 git의 프로젝트가 repository단위로 snapshot을 관리하기 때문에 필요한 과정이다.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+
+  staging area는 working directory와 repository의 사이 임시 공간이다. 이는 commit이 여러개 파일을 포함해야 할 경우를 잘 지원해주는 개념이다.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
