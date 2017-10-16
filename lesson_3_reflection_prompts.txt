@@ -6,7 +6,7 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    자동적으로 remote에 업로드 하는 것은 change를 적용할 단계가 아님에도 업로드 될 수 있다. 이 때는 수동적으로 사용자 판단하에 업로드 하는 것이 좋다.
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
